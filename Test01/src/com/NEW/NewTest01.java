@@ -1,6 +1,8 @@
 package com.NEW;
 
 public class NewTest01 {
-	ㅇㅋ
+	public static void main(String[] args) {
+		
+	}
 
 }
