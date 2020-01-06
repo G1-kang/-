@@ -1,2 +1,3 @@
 read me
 SELECT * FROM EMP; -YEO
+fork -> clone -> update -> commit -> pull request;
